@@ -5,7 +5,7 @@ body {
 	display: inline-block;
 	width: 35vw;
 	border: 2px solid black;
-	height: 310px;
+	height: 350px;
 	color: Indigo;
 }
 .Aboutme {
@@ -72,6 +72,11 @@ img {
 }
 li {
 	color: Indigo;
+}
+#minus, #total, #plus {
+	display: inline-block;
+	font-size: 40px;
+	margin: 15px;
 }
 
 
