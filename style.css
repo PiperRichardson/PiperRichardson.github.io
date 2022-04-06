@@ -73,11 +73,18 @@ img {
 li {
 	color: Indigo;
 }
-#minus, #total, #plus {
+#minus, #total, #plus, #multiply2, #divide2, #add5, #minus5  {
 	display: inline-block;
 	font-size: 40px;
 	margin: 15px;
 }
+
+#reset {
+	display: block;
+	font-size: 40px;
+	margin: 15px;
+}
+
 
 
 
