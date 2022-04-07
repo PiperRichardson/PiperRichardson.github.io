@@ -85,6 +85,9 @@ li {
 	margin: 15px;
 }
 
+#password, #verify {
+	display: inline-block;
+}
 
 
 
