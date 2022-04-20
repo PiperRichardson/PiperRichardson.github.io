@@ -13,6 +13,7 @@ var score = document.getElementById("score");
 var result = 0;
 
 function calculate() {
+	result = 0;
 	if (q1.value == "Jellyfish"){
 		result = result + 1;
 	}

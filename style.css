@@ -91,7 +91,23 @@ li {
 .question {
 	display: block;
 }
-
-
-
-
+#buttons, #image {
+	display: block;
+	border-radius: 10px;
+	width: 30vw;
+	vertical-align: top;
+}
+.button {
+	display: inline-block;
+	vertical-align: top;
+}
+.madlib {
+	display:inline-block;
+}
+#button2 {
+	display: block;
+}
+#paragraph {
+	font-size: 30px;
+	display: inline-block;
+}
