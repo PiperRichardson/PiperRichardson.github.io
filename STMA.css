@@ -1,0 +1,55 @@
+#topBanner {
+	font-size: 10px;
+	border: solid #001489;
+	background-color: #001489;
+	color: white;
+}
+.BBannerTags {
+	display: inline-block;
+	width: 7vw;
+	margin-left: 6vw;
+}
+#images {
+	margin-left: 6vw;
+	padding-right: 40vw
+}
+.button {
+	color: white;
+	background-color: #001489;
+	border-color: #001489;
+	vertical-align: 60px;
+}
+#inline {
+	display: inline-block;
+}
+.button2 {
+	background-color: #FFD400;
+	border-color: #FFD400;
+	height: 1.1vw;
+	width: 1.1vw;
+	vertical-align: 58px;
+}
+.p {
+	font-size: 12px;
+	margin-left: 70vw;
+	vetical-align: 100px;
+}
+.links {
+	display:inline-block;
+	background-color: GhostWhite;
+	border-color:GhostWhite;
+	height: 12vw;
+	width:11vw;
+	margin:-.3vw
+}
+.greybar {
+	display: inline-block;
+	height:10vw;
+	width: 10vw;
+}
+
+
+
+
+
+
