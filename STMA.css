@@ -9,7 +9,7 @@
 	width: 7vw;
 	margin-left: 6vw;
 }
-#images {
+#stma {
 	margin-left: 6vw;
 	padding-right: 40vw
 }
@@ -25,14 +25,15 @@
 .button2 {
 	background-color: #FFD400;
 	border-color: #FFD400;
-	height: 1.1vw;
-	width: 1.1vw;
+	height:20px;
+	width:20px;
 	vertical-align: 58px;
+	display:inline-block;
 }
 .p {
-	font-size: 12px;
+	font-size: 1vw;
 	margin-left: 70vw;
-	vetical-align: 100px;
+	vetical-align: 10vw;
 }
 .links {
 	display:inline-block;
@@ -44,8 +45,11 @@
 }
 .greybar {
 	display: inline-block;
-	height:10vw;
-	width: 10vw;
+	vertical-align: top;
+}
+.images {
+	white-space:nowrap;
+	height:100px;
 }
 
 
