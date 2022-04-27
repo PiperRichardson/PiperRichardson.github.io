@@ -1,0 +1,80 @@
+.TopBar {
+	display: inline-block;
+	font-size: 10px;
+	padding: 2vw;
+	vertical-align: top;
+	margin-top: 10px;
+}
+.image {
+	display:inline-block;
+	width:20px;
+	padding:2vw;
+}
+.TopBarDiv {
+	background: #303030;
+	color: #d6d6d6;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
+.Div2 {
+	background: #fbfbfb;
+	color: #464648;
+}
+.icon {
+	display: inline-block;
+	font-size: 10px;
+	vertical-align: top;
+}
+.new {
+	color: #bf4800;
+}
+.iconimage{
+	height:4vw;
+	display: block;
+	margin: 1vw;
+}
+.Applecard {
+	background: #f5f5f7;
+	color: #1d1d1f;
+	font-size: 10px;
+	padding:.1px
+}
+.Learnmore {
+	display: inline-block;
+	color: #1371cf;
+}
+.bottom {
+	background: white;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helverica","Arial","sans-serif";
+}
+.Ohsopro {
+	font-size: 30px;
+	font-weight: 600;
+}
+.Pro {
+	font-weight: 600;
+}
+.buy {
+	display: inline-block;
+	background: #1371cf;
+	color: white;
+	border-radius: 70px;
+	border: #1371cf;
+	padding: 6px;
+	width:6vw;
+}
+.abovePhone {
+	display: block;
+}
+.phone{
+	width: 600px;
+	margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
