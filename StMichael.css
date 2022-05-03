@@ -1,0 +1,14 @@
+.wikilogo {
+	width: 100px;		
+}
+.underwiki {
+	display: block;
+	color: #1371cf;
+}
+.list1 {
+	display: inline-block;
+}
+.mainContent {
+	display: inline-block;
+	vertical-align: top;
+}
