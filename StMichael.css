@@ -11,4 +11,79 @@
 .mainContent {
 	display: inline-block;
 	vertical-align: top;
+	width: 79vw;
+	background: white;
+	padding: 10px
 }
+.Greybox {
+	border: solid black 1px;
+	background: whitesmoke;
+	padding: 10px;
+	padding-top: 2px;
+	width: 10vw;
+	display: inline-block;
+	vertical-align: top;
+}
+.purple {
+	background: lavender;
+}
+body {
+	background: whitesmoke;
+}
+.church {
+	display: inline-block;
+	background: whitesmoke;
+	width: 30vw;
+	margin-left: 33vw;
+}
+.rightBox {
+	border: solid black 1px;
+	display: inline-block;
+	text-align: center;
+}
+.stmichael {
+	border: solid black 0px;
+	background: whitesmoke;
+	margin: 0px;
+	padding: 4px;
+}
+.city {
+	border: solid black 0px;
+	margin: 0px;
+	padding: 4px;
+	background: #cddeff;
+	color: darkblue;
+}
+.churchImage {
+	height: 30vw;
+	padding: 4px;
+}
+.county {
+	height: 15vw;
+}
+.words {
+	text-align: left;
+	padding: 2px;
+	color: #1371cf;
+	display: inline-block;
+}
+.bRight, .class{
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

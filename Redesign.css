@@ -1,0 +1,39 @@
+.image {
+	width: 94vw;
+}
+.image2 {
+	display: block;
+	width: 10vw;
+}
+.images {
+	width: 10vw;
+	border: 10px solid #FFD400;
+	display: inline-block;
+}
+.words {
+	display: inline-block;
+	padding-bottom: 6vw;
+	margin: 1vw;
+	color: white;
+}
+.yes {
+	display: inline-block;
+}
+.blue {
+	display: inline-block;
+	border: 10px solid #001489;
+	width: 10vw;
+}
+body {
+	background: black;
+}
+.sideimage {
+	display: inline-block;
+	width: 60vw;
+	vertical-align: top;
+}
+.sideimage2 {
+	display: inline-block;
+	width: 60vw;
+	vertical-align: top;
+}
